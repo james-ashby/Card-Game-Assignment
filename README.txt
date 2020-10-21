@@ -3,7 +3,7 @@ Pokemon card game for Component Programming
 
 ************************************************************
 
-This is my assignment project for Component Programming at SHU.
+This is my assignment project for Component Programming at SHU that got cancelled due to COVID-19.
 
 
 ************ Aim ************* 
