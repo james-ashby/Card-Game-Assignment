@@ -32,7 +32,10 @@ namespace CardGame
         {
             return Team[indexValue];
         }
-        
+        public void CatchRandomMonster(int randFromMaxMonsters)
+        {
+            Team.Add(monsters.RandomMonsterFromList(randFromMaxMonsters));
+        }
 
     }
 }

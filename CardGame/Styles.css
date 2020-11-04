@@ -1,0 +1,141 @@
+﻿.lblText {
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #5abf4a;
+    font-size: 24px;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+#divCardGif {
+    position: absolute;
+    top: 235px;
+    left: 300px;
+}
+body {
+    background-image: url(Images/background.png);
+    background-repeat: no-repeat;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 625px;
+    left: 50px;
+}
+
+    .flex-container > div {
+        margin: 1px 10px 1px 1px;
+        padding: 5px;
+    }
+
+#divPlayButton {
+    position: absolute;
+    top: 458px;
+    left: 730px;
+}
+#divNoButton {
+    position: absolute;
+    top: 500px;
+    left: 950px;
+}
+#divYesButton {
+    position: absolute;
+    top: 500px;
+    left: 800px;
+}
+#divConfirmText {
+    position: absolute;
+    top: 310px;
+    left: 740px;
+}
+
+.chooseButton {
+    height: 50px;
+    width: 50px;
+}
+
+#btnChooseTreecko.chooseButton {
+    margin-left: 30px;
+    margin-top: 25px;
+}
+
+#btnChoosePonyta.chooseButton {
+    margin-left: 55px;
+    margin-top: 13px;
+}
+#btnChooseSquirtle.chooseButton {
+    margin-left: 35px;
+    margin-top: 25px;
+}
+
+#btnChooseGeodude.chooseButton {
+    margin-left: 60px;
+    margin-top: -5px;
+}
+#btnChoosePidgey.chooseButton {
+    margin-left: 40px;
+    margin-top: 25px;
+}
+#btnChooseOddish.chooseButton {
+    margin-left: 18px;
+    margin-top: 25px;
+}
+#btnChooseBagon.chooseButton {
+    margin-left: 55px;
+    margin-top: 25px;
+}
+
+#btnChooseDrifloon.chooseButton {
+    margin-left: 60px;
+    margin-top: 25px;
+}
+
+#btnChooseTrapinch.chooseButton {
+    margin-left: 70px;
+    margin-top: 25px;
+}
+
+#btnChooseSnorunt.chooseButton {
+    margin-left: 55px;
+    margin-top: 25px;
+}
+#divChoosePanel {
+    position: absolute;
+    top: 100px;
+    left: 210px;
+}
+#divCardName {
+    position: absolute;
+    top: 143px;
+    left: 330px;
+}
+#lblCardStats {
+    position: absolute;
+    top: 430px;
+    left: 350px;
+}
+#lblCardHealth {
+    position: absolute;
+    top: 460px;
+    left: 310px;
+}
+#lblCardAttack {
+    position: absolute;
+    top: 490px;
+    left: 310px;
+}
+#lblCardDefence {
+    position: absolute;
+    top: 520px;
+    left: 310px;
+}
+#lblCardStamina {
+    position: absolute;
+    top: 550px;
+    left: 310px;
+}
+#divStartButton {
+    position: absolute;
+    top: 385px;
+    left: 820px;
+}

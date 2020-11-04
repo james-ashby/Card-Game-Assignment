@@ -3,3 +3,8 @@
 ################################################################################
 
 /CardGame/App_Data/SaveData.mdf
+/CardGame/App_Data/SaveData_log.ldf
+/.vs/CardGame/v16/_suo.doc
+/CardGame/bin
+/.vs/CardGame/v16
+/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1
